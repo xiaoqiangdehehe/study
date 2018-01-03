@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="C:\Program Files\Eclipse\Eclipse-mars-JRE" version="1.8.0_11">
+<bootpath>
+<entry path="C:\Program Files\Eclipse\Eclipse-mars-JRE\jre\lib\resources.jar"/>
+<entry path="C:\Program Files\Eclipse\Eclipse-mars-JRE\jre\lib\rt.jar"/>
+<entry path="C:\Program Files\Eclipse\Eclipse-mars-JRE\jre\lib\sunrsasign.jar"/>
+<entry path="C:\Program Files\Eclipse\Eclipse-mars-JRE\jre\lib\jsse.jar"/>
+<entry path="C:\Program Files\Eclipse\Eclipse-mars-JRE\jre\lib\jce.jar"/>
+<entry path="C:\Program Files\Eclipse\Eclipse-mars-JRE\jre\lib\charsets.jar"/>
+<entry path="C:\Program Files\Eclipse\Eclipse-mars-JRE\jre\lib\jfr.jar"/>
+<entry path="C:\Program Files\Eclipse\Eclipse-mars-JRE\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Program Files\Eclipse\Eclipse-mars-JRE\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Program Files\Eclipse\Eclipse-mars-JRE\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="F:\学\java编程\Eclipse(mars，中文版带JRE)" version="1.8.0_11">
+<bootpath>
+<entry path="F:\学\java编程\Eclipse(mars，中文版带JRE)\jre\lib\resources.jar"/>
+<entry path="F:\学\java编程\Eclipse(mars，中文版带JRE)\jre\lib\rt.jar"/>
+<entry path="F:\学\java编程\Eclipse(mars，中文版带JRE)\jre\lib\sunrsasign.jar"/>
+<entry path="F:\学\java编程\Eclipse(mars，中文版带JRE)\jre\lib\jsse.jar"/>
+<entry path="F:\学\java编程\Eclipse(mars，中文版带JRE)\jre\lib\jce.jar"/>
+<entry path="F:\学\java编程\Eclipse(mars，中文版带JRE)\jre\lib\charsets.jar"/>
+<entry path="F:\学\java编程\Eclipse(mars，中文版带JRE)\jre\lib\jfr.jar"/>
+<entry path="F:\学\java编程\Eclipse(mars，中文版带JRE)\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="F:\学\java编程\Eclipse(mars，中文版带JRE)\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="F:\学\java编程\Eclipse(mars，中文版带JRE)\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="C:\Users\yiqia\Desktop\Eclipse(mars，中文版带JRE)" version="1.8.0_11">
+<bootpath>
+<entry path="C:\Users\yiqia\Desktop\Eclipse(mars，中文版带JRE)\jre\lib\resources.jar"/>
+<entry path="C:\Users\yiqia\Desktop\Eclipse(mars，中文版带JRE)\jre\lib\rt.jar"/>
+<entry path="C:\Users\yiqia\Desktop\Eclipse(mars，中文版带JRE)\jre\lib\sunrsasign.jar"/>
+<entry path="C:\Users\yiqia\Desktop\Eclipse(mars，中文版带JRE)\jre\lib\jsse.jar"/>
+<entry path="C:\Users\yiqia\Desktop\Eclipse(mars，中文版带JRE)\jre\lib\jce.jar"/>
+<entry path="C:\Users\yiqia\Desktop\Eclipse(mars，中文版带JRE)\jre\lib\charsets.jar"/>
+<entry path="C:\Users\yiqia\Desktop\Eclipse(mars，中文版带JRE)\jre\lib\jfr.jar"/>
+<entry path="C:\Users\yiqia\Desktop\Eclipse(mars，中文版带JRE)\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Users\yiqia\Desktop\Eclipse(mars，中文版带JRE)\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Users\yiqia\Desktop\Eclipse(mars，中文版带JRE)\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="C:\Program Files\Eclipse\Eclipse-mars-JRE\jre" version="1.8.0_11">
+<bootpath>
+<entry path="C:\Program Files\Eclipse\Eclipse-mars-JRE\jre\lib\resources.jar"/>
+<entry path="C:\Program Files\Eclipse\Eclipse-mars-JRE\jre\lib\rt.jar"/>
+<entry path="C:\Program Files\Eclipse\Eclipse-mars-JRE\jre\lib\sunrsasign.jar"/>
+<entry path="C:\Program Files\Eclipse\Eclipse-mars-JRE\jre\lib\jsse.jar"/>
+<entry path="C:\Program Files\Eclipse\Eclipse-mars-JRE\jre\lib\jce.jar"/>
+<entry path="C:\Program Files\Eclipse\Eclipse-mars-JRE\jre\lib\charsets.jar"/>
+<entry path="C:\Program Files\Eclipse\Eclipse-mars-JRE\jre\lib\jfr.jar"/>
+<entry path="C:\Program Files\Eclipse\Eclipse-mars-JRE\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Program Files\Eclipse\Eclipse-mars-JRE\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Program Files\Eclipse\Eclipse-mars-JRE\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="将编译单元“com.student.Student.java”重命名为“Main.java”&#x0D;&#x0A;－ 原始项目：“Student”&#x0D;&#x0A;－ 原始元素：“com.student.Student.java”&#x0D;&#x0A;－ 重命名的元素：“com.student.Main.java”" description="重命名编译单元“Student.java”" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.student{Student.java" name="Main.java" references="false" stamp="1514201591508" version="1.0"/>
+</session>
